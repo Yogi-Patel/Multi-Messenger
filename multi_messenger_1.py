@@ -206,7 +206,7 @@ def email():
             no = (int)(no_entry.get())
             while(no>=1):
                 try:
-                    s.sendmail("email_address", to_address, message)
+                    s.sendmail("put_email_address", to_address, message)
                     flag = 1
                     time.sleep(0.1)
                 except Exception:
