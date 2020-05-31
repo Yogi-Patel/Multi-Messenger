@@ -6,3 +6,5 @@ There are a few method calls in the code itself that have to be filled in like t
 2/3rd of the project runs on web automation. So you are going to need to download the selenium web driver for the chrome version you are using. In the code, you need to specify where the selenium driver is located(The full path). 
 
 Feel free to contact me if you find this useful and need help in something. I will try to help you if I can 
+
+While using mail or spam, you will have to access your gmail account settings and will have to allow "less secure" apps i.e., toggle it on if not on already. Without this, the code will not work 
